@@ -30,7 +30,7 @@ A simple automatic night lamp circuit constructed on a breadboard using an LDR, 
 
 ### **RESULT**
 
-![][image2]
+![](IMG-20260921-WA0004.jpg)
 
 ### **Notes**
 
