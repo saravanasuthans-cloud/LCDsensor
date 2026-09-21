@@ -26,7 +26,7 @@ A simple automatic night lamp circuit constructed on a breadboard using an LDR, 
 7. Expose the LDR to light and observe the LED.  
 8. Cover the LDR and check that the LED switches on automatically.
 
-![][image1]
+![](IMG-20260921-WA0005.jpg)
 
 ### **RESULT**
 
